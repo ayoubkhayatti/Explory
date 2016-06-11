@@ -12,4 +12,5 @@ Notes
 -----
  - The app uses Foursquare API to search for keywords.
  - It uses AFNetworking 3.0 as networking library.
+ - Dependencies are managed by cocoapods.
  - it handles a basic use case of a user who's searching some keywords.
